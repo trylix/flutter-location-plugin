@@ -1,8 +1,7 @@
 name: flutter_location
 description: A Flutter background and foreground location plugin.
-version: 0.0.1
-author:
-homepage:
+version: 0.1.0
+homepage: https://github.com/trylix/flutter-location-plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
